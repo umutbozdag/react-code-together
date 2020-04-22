@@ -6,7 +6,6 @@
 
 - React
 - Socket.io
-- React ace component
 
 ## TODOS
 
